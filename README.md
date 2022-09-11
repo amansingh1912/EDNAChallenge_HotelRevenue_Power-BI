@@ -26,13 +26,14 @@ After loading dataset in Power BI, I applied the following applications:
 # Theme and Color Palette:
 
 * First of all, I chose a color palette for the dashboard which included black, green, brown, orange and blue.
+* Theme chosen was dark.
 
 # Dataset Applications of DAX in Power BI:
 
 I applied some DAX measures inside the dataset like DISTINCTCOUNT, SUM, CALCULATE measures to get the desired mathematical values in either percentages or whole 
 numbers.
 
-# Visualization and parameters used:
+## Visualization and parameters used:
 
 * From visualization point of view, I thought here to go with 3 paged dashboard with horizontal navigation panes containing 3 pages which are of "Agent Profile", "Guests Profile", "KPI Indicators".
 
@@ -40,6 +41,9 @@ numbers.
 It overall gave a nice picture in terms of various aspects like age categories, country, etc. 
 
 * I used 4 filters in the report which were "Reservation Year", "Hotel Type", "Distribution Type" and "Customer Type" and used them as side pane.
+
+* Also used combination of selection, bookmark and buttons for the navigation purpose of the dashboard.
+
 
 
 ## Key Insights and Recommendations from the Report:
