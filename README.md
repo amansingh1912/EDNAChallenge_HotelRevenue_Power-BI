@@ -16,6 +16,9 @@ adults, babies,children, etc.
 
 ![adult filtered](https://user-images.githubusercontent.com/72240938/189517616-8a5b34e5-331a-43e1-89d8-befa3da48e34.png)
 
+## Demands of the client:
+![client requirements](https://user-images.githubusercontent.com/72240938/189518982-ec64162b-e867-4e47-801b-2b1f1752df37.png)
+
 After loading dataset in Power BI, I applied the following applications:
 
 ## Steps taken In Power BI Application:
@@ -24,9 +27,20 @@ After loading dataset in Power BI, I applied the following applications:
 
 * First of all, I chose a color palette for the dashboard which included black, green, brown, orange and blue.
 
-## Dataset Applications in Power BI:
+# Dataset Applications of DAX in Power BI:
 
-I applied some DAX measures inside the dataset like DISTINCTCOUNT, SUM, CALCULATE, etc.
+I applied some DAX measures inside the dataset like DISTINCTCOUNT, SUM, CALCULATE measures to get the desired mathematical values in either percentages or whole 
+numbers.
+
+# Visualization and parameters used:
+
+* From visualization point of view, I thought here to go with 3 paged dashboard with horizontal navigation panes containing 3 pages which are of "Agent Profile", "Guests Profile", "KPI Indicators".
+
+* In KPI indicators, I used 4 criteria here which are "Cancellations", "Lead Time", "Repeated Guests" and "Stays in Weeks and Weekends w.r.t to Reservation Date".
+It overall gave a nice picture in terms of various aspects like age categories, country, etc. 
+
+* I used 4 filters in the report which were "Reservation Year", "Hotel Type", "Distribution Type" and "Customer Type" and used them as side pane.
+
 
 ## Key Insights and Recommendations from the Report:
 
