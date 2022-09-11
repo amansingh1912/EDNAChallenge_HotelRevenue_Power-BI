@@ -44,6 +44,8 @@ It overall gave a nice picture in terms of various aspects like age categories, 
 
 * Also used combination of selection, bookmark and buttons for the navigation purpose of the dashboard.
 
+* Pixel Size used was 16:9 which is (720*1280)px .
+
 
 
 ## Key Insights and Recommendations from the Report:
